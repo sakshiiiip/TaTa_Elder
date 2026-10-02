@@ -152,7 +152,7 @@ fun ProfileModal(
                             OutlinedTextField(
                                 value = fullName,
                                 onValueChange = { fullName = it },
-                                placeholder = { Text("e.g. Ramesh Sharma") },
+                                placeholder = { Text("e.g. Ashutosh Pandey") },
                                 shape = RoundedCornerShape(12.dp),
                                 modifier = Modifier.fillMaxWidth(),
                                 singleLine = true

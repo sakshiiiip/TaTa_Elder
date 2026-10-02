@@ -185,7 +185,7 @@ fun PensionFormScreen(
                                 label = "Full Name",
                                 value = fullName,
                                 onValueChange = { fullName = it },
-                                placeholder = "e.g. Ramesh Sharma",
+                                placeholder = "e.g. Ashutosh Pandey",
                                 isAutoFilled = true
                             )
 
